@@ -1,0 +1,5 @@
+
+
+let app = () => {
+  <Greeting />
+}

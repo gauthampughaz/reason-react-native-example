@@ -1,0 +1,21 @@
+# ninja log v5
+0	50	1534692080	re/app.mlast	f616575ca62636f3
+2	52	1534692080	re/greeting.mlast	2707885c6255e710
+50	59	1534692080	re/app.mlast.d	72f15d84b6ca43e3
+53	61	1534692080	re/greeting.mlast.d	883f9d2263821e4f
+0	39	1534692155	re/greeting.mlast	2707885c6255e710
+39	46	1534692155	re/greeting.mlast.d	883f9d2263821e4f
+0	25	1534692155	re/greeting.cmj	c885e75dc0837173
+0	25	1534692155	/Users/gauthampughaz/Development/reasonML/ReasonDemo/lib/js/re/greeting.js	c885e75dc0837173
+0	25	1534692155	re/greeting.cmi	c885e75dc0837173
+25	39	1534692155	re/app.cmj	b930705565f3fa1
+25	39	1534692155	/Users/gauthampughaz/Development/reasonML/ReasonDemo/lib/js/re/app.js	b930705565f3fa1
+25	39	1534692155	re/app.cmi	b930705565f3fa1
+1	52	1534703056	re/greeting.mlast	2707885c6255e710
+52	60	1534703056	re/greeting.mlast.d	883f9d2263821e4f
+0	28	1534703056	re/greeting.cmj	c885e75dc0837173
+0	28	1534703056	/Users/gauthampughaz/Development/reasonML/ReasonDemo/lib/js/re/greeting.js	c885e75dc0837173
+0	28	1534703056	re/greeting.cmi	c885e75dc0837173
+28	46	1534703056	re/app.cmj	b930705565f3fa1
+28	46	1534703056	/Users/gauthampughaz/Development/reasonML/ReasonDemo/lib/js/re/app.js	b930705565f3fa1
+28	46	1534703056	re/app.cmi	b930705565f3fa1
