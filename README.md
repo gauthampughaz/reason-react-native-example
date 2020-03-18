@@ -1,2 +1,2 @@
-# reason-react-native-example
-A simple example for reason combined with react native
+# Reason React Native Example
+A simple example to illustrate how type-safe ReasonML can be combined with React Native
